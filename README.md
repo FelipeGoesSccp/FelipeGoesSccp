@@ -3,7 +3,7 @@
     <h1> 
     👋 Hey there, I'm Felipe <br> 
     💻 Currently diving deep into JavaScript <br>
-    🖤 I'm a proud of being a Palmeiras fan! 🟢⚪
+    🖤 I'm a proud of being a Corinthians fan! 🤍
 </h1>
 <details align="center"> 
  
